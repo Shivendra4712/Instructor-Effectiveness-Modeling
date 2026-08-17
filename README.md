@@ -11,8 +11,8 @@ An end-to-end Data Science and Machine Learning pipeline developed for an EdTech
 
 ## 💻 Live Project Links
 Aap is project ka live execution code aur core source elements yahan click karke direct dekh sakte hain:  
-👉 **Live Google Colab Notebook:** https://google.com  
-👉 **Live Dataset Download:** https://google.com
+👉 **Live Google Colab Notebook:** [https://google.com](https://colab.research.google.com/drive/1bPUEP8hKcqCxfw-pqdLUgw0Xvt1_tHas?usp=sharing)  
+
 
 ---
 
