@@ -1,5 +1,7 @@
 # Instructor Effectiveness Modeling (EdTech Context)
 
+[![Open In Colab](https://google.com)](https://google.com)
+
 An end-to-end Data Science and Machine Learning pipeline developed for an EdTech platform to analyze, define, and predict **Instructor Effectiveness Tiers** based on learner outcomes, engagement analytics, and feedback metrics.
 
 ---
@@ -10,6 +12,12 @@ In an EdTech ecosystem, instructors handle multiple batches across different cou
 2. **Perform Exploratory Data Analysis (EDA)**, outlier treatment, and median-based missing value imputation.
 3. **Formulate a normalized Instructor Effectiveness Score** and split performance into balanced classification tiers (Low, Medium, High) using multi-class quantile splitting.
 4. **Train and evaluate a tuned Random Forest Classifier** to predict instructor performance tiers with robust feature scaling.
+
+---
+
+## 💻 Live Notebook Link
+Aap is project ka live execution aur code outputs yahan click karke direct dekh sakte hain:  
+👉 **[Launch Google Colab Notebook](https://google.com)**
 
 ---
 
@@ -59,7 +67,7 @@ Make sure you have the required libraries installed:
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
-### Running the Pipeline
+### Running the Pipeline Locally
 Simply clone this repository and execute the script:
 ```bash
 python instructor_effectiveness_modeling.py
