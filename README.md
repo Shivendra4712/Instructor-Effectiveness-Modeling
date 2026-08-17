@@ -9,10 +9,9 @@ An end-to-end Data Science and Machine Learning pipeline developed for an EdTech
 
 ---
 
-## 💻 Live Project Links
+## 💻 Live Project Link
 Aap is project ka live execution code aur core source elements yahan click karke direct dekh sakte hain:  
-👉 **Live Google Colab Notebook:** [https://google.com](https://colab.research.google.com/drive/1bPUEP8hKcqCxfw-pqdLUgw0Xvt1_tHas?usp=sharing)  
-
+👉 **Live Google Colab Notebook:** https://google.com
 
 ---
 
@@ -84,3 +83,4 @@ python instructor_effectiveness_modeling.py
 * **Top Drivers**: Course completion rates combined with student feedback distributions act as the primary operational anchors influencing classification metrics.
 * **Systemic Failures**: The model assumes uniform distribution of course complexity. It might inadvertently penalize elite instructors managing high-difficulty/advanced engineering tracks.
 * **Ethical Usage**: This framework is designed strictly as an internal developmental diagnostic tool and should not be used as an absolute metric for high-stakes payroll decisions.
+
