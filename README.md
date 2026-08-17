@@ -4,9 +4,10 @@ An end-to-end Data Science and Machine Learning pipeline developed for an EdTech
 
 ---
 
-## 💻 Live Google Colab Notebook
-Aap is project ka live execution aur code outputs yahan click karke direct dekh sakte hain:  
-👉 **https://google.com**
+## 💻 Live Project Links
+Aap is project ka live execution code aur core source elements yahan click karke direct dekh sakte hain:  
+👉 **Live Google Colab Notebook:** https://google.com  
+👉 **Live Dataset Download:** https://drive.google.com/file/d/1NgAGEEGVC9ygYnXswVawZv7M5zNk8Kc3/view?usp=sharing
 
 ---
 
